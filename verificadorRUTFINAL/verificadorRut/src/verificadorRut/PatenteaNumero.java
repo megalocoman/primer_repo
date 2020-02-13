@@ -3,7 +3,7 @@ package verificadorRut;
 import java.io.IOException;
 import java.util.Map;
 import java.util.Scanner;
-
+// actializacion para ver si funciona  y se en en github
 public class PatenteaNumero {
 
 	public static void main(String[] args) throws IOException {
