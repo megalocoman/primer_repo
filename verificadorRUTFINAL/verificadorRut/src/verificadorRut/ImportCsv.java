@@ -1,7 +1,7 @@
 package verificadorRut;
 import java.util.*;
 
-//import com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException;
+//otro coso modificado niunbrillo
 
 import java.io.*;
 public class ImportCsv {
