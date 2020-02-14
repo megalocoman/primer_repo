@@ -1,7 +1,7 @@
 package verificadorRut;
 
 public class MetodoDos {
-
+// modificacion 
 	 static  int metodoUwU(int numerouno, int numerodos ) {
 		// TODO Auto-generated method stub
 		
